@@ -1,23 +1,101 @@
 [
     {
-      "id": ,
-      "name": "",
+      "id": 1,
+      "name": "Liz Lemon",
       "image":
-        "",
+        "https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/Liz_Lemon_promo_pic.jpg/220px-Liz_Lemon_promo_pic.jpg"
       
     },
     {
-      "id": ,
-      "name": "",
+      "id": 2,
+      "name": "Jack Donaghy",
       "image":
-        "",
+        "https://upload.wikimedia.org/wikipedia/en/thumb/7/74/Jack_Donaghy_30_Rock.jpg/220px-Jack_Donaghy_30_Rock.jpg"
   
     },
     {
-      "id": ,
-      "name": "Squidward",
+      "id": 3,
+      "name": "Kenneth Parcell",
       "image":
-        "",
+        "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Kenneth_Parcell.jpg/250px-Kenneth_Parcell.jpg"
     }
+    {
+        "id": 4,
+        "name": "Tracy Jordan",
+        "image":
+          "https://upload.wikimedia.org/wikipedia/en/thumb/5/58/Tracy_jordan.jpg/240px-Tracy_jordan.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Cerie",
+        "image":
+          "https://30rockfanbase.weebly.com/uploads/7/9/8/5/7985207/7516344.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Jenna Maroney",
+        "image":
+          "https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/Jennamaroney.jpg/245px-Jennamaroney.jpg"
+      },
+      {
+        "id": 7,
+        "name": "Jonathan",
+        "image":
+          "https://vignette.wikia.nocookie.net/30rock/images/3/37/Jon.png/revision/latest/top-crop/width/360/height/450?cb=20130426073544"
+      },
+      {
+        "id": 8,
+        "name": "Josh Girard",
+        "image":
+          "https://vignette.wikia.nocookie.net/30rock/images/d/db/Lonny.jpg/revision/latest/scale-to-width-down/340?cb=20090908014841"
+      },
+      {
+        "id": 9,
+        "name": "Pete Hornsby",
+        "image":
+          "https://vignette.wikia.nocookie.net/30rock/images/d/d5/Pete.jpg/revision/latest/top-crop/width/360/height/450?cb=20090908013407"
+      },
+      {
+        "id": 10,
+        "name": "Frank Rossitano",
+        "image":
+          "https://vignette.wikia.nocookie.net/tvdatabase/images/3/30/30_Rock_1x04_002.jpg/revision/latest/scale-to-width-down/340?cb=20120303043432"
+      },
+      {
+        "id": 11,
+        "name": "Grizz Griswold",
+        "image":
+          "https://30rockfanbase.weebly.com/uploads/7/9/8/5/7985207/4953241.jpg"
+      },
+      {
+        "id": 12,
+        "name": "Avery Jessup",
+        "image":
+          "https://img.nbc.com/sites/nbcunbc/files/scet/photos/38/10876/NUP_148529_0143.jpg"
+      },
+      {
+        "id": 13,
+        "name": "JD Lutz",
+        "image":
+          "https://vignette.wikia.nocookie.net/30rock/images/b/b0/30-rock-lutz_610.jpg/revision/latest/top-crop/width/360/height/450?cb=20140804225914"
+      },
+      {
+        "id": 14,
+        "name": "Dr. Leo Spaceman",
+        "image":
+          "https://static.tvmaze.com/uploads/images/medium_portrait/54/136261.jpg"
+      },
+      {
+        "id": 15,
+        "name": "Dennis Duffy",
+        "image":
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/DeanWintersOct10.jpg/330px-DeanWintersOct10.jpg"
+      },
+      {
+        "id": 16,
+        "name": "Greta Johansen",
+        "image":
+          "https://www.google.com/imgres?imgurl=http%3A%2F%2F30rockfanbase.weebly.com%2Fuploads%2F7%2F9%2F8%2F5%2F7985207%2F8483758.jpg&imgrefurl=https%3A%2F%2F30rockfanbase.weebly.com%2Fgreta-johanson.html&tbnid=NVGvGFpEejS7OM&vet=12ahUKEwjy6vLp_47qAhUUAzQIHUfgCkEQMygAegUIARCXAQ..i&docid=3vsfUkyc1i1aGM&w=196&h=257&q=30%20rock%20greta%20johansen&ved=2ahUKEwjy6vLp_47qAhUUAzQIHUfgCkEQMygAegUIARCXAQ"
+      }
   ]
   
