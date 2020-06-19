@@ -1,26 +1,30 @@
+//setting all the react dependencies we're using and also importing component pages
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import Wrapper from "./components/Wrapper";
+import Jumbotron from "./components/Jumbotron";
+import Navbar from "./components/Navbar";
+import GameCard from "./components/GameCard";
+import characters from "./characters.json";
+
+class App extends Component {
+    // Setting this.state.characters to the characters json array
+    // Also setting the state for the rest of our data that we're tracking
+    state = {
+      characters,
+      score: 0,
+      highScore: 0,
+      clickedPic: []  
+    };
+
+shufflePicture = 
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Wrapper>
+    
+     
+    </Wrapper>
   );
-}
+};
 
 export default App;
