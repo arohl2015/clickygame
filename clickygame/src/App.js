@@ -4,6 +4,7 @@ import characters from "./characters.json";
 import GameCard from "./components/GameCard";
 import Wrapper from "./components/Wrapper";
 import Navbar from "./components/Navbar";
+import "./App.css";
 
 // The shuffle methods allows me to display these cards in random order after they are clicked
 function shufflePicture(pictures) {
