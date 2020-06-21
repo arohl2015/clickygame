@@ -1,12 +1,12 @@
 //setting all the react dependencies we're using and also importing component pages
 import React, {Component} from 'react';
 import characters from "./characters.json";
-import GameCard from "./components/GameCard/index";
-import Wrapper from "./components/Wrapper/index";
-import Navbar from "./components/Navbar/index";
+import GameCard from "./components/GameCard";
+import Wrapper from "./components/Wrapper";
+import Navbar from "./components/Navbar";
 
 // The shuffle methods allows me to display these cards in random order after they are clicked
-shufflePictures = (pictures) => {
+function shufflePicture(pictures) {
     for (var i = pictures.length - 1; i > 0; i--) {
       var j = Math.floor(Math.random() * (i + 1));
       var temp = pictures[i];
@@ -14,7 +14,7 @@ shufflePictures = (pictures) => {
       pictures[j] = temp;
     }
     return pictures;
-  }
+  };
 
 class App extends Component {
     // Setting this.state.characters to the characters json array
@@ -56,7 +56,7 @@ class App extends Component {
     };
 
     render() {
-        const shuffledCharacter = shufflePictures(this.state.characters);
+        const shuffledCharacter = shufflePicture(this.state.characters);
         return (
           <div>
             <Navbar

@@ -1,18 +1,21 @@
 import React from "react";
 import "./style.css";
 
-// Component for the Navbar
-
-function Navbar(props) {
-    return (
-        <div className="row">
-            <nav className="nav">
-                <a href="/" className="nav-item"> 30 Rock Clicky Game</a>
-                <h3 className="nav-item">Click an image to begin...just don't click the same one twice!</h3>
-                <h2 className="nav-item">Score: {props.score} | High Score: {props.highScore}</h2>
-            </nav>
-        </div>
-    );
+const Navbar = props => {
+  return (
+    <nav className="navbar navbar-expand-lg navbar-light" id="navBar">
+      <a className="navbar-brand" href="/">
+      </a>
+      <div className="text-center">
+        <h1>Click a character to begin</h1>
+      </div>
+      <div className="nav navbar-nav ml-auto">
+        <p className="currentScore">Score: {props.currentScore}</p>
+        <div class="vl"></div>
+        <p className="topScore"> Highest Score: {props.highestScore}</p>
+      </div>
+    </nav>
+  );
 };
 
 export default Navbar;
