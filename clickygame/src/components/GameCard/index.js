@@ -8,7 +8,7 @@ const GameCard = props => {
         <img
           alt={props.name + " Image"}
           src={props.image}
-          className="picture"
+          className="pictureImg"
         ></img>
       </div>
     </div>

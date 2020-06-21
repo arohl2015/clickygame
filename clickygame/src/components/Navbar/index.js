@@ -11,7 +11,7 @@ const Navbar = props => {
       </div>
       <div className="nav navbar-nav ml-auto">
         <p className="currentScore">Score: {props.currentScore}</p>
-        <div class="vl"></div>
+        <div class="nav"></div>
         <p className="topScore"> Highest Score: {props.highestScore}</p>
       </div>
     </nav>
