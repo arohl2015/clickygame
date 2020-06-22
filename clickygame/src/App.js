@@ -67,7 +67,9 @@ class App extends Component {
             <div className="container-fluid">
               <div className="row">
                 <div className="col-md-12">
-                  <h3>If you click on a character more than once-game over!</h3>
+                  <h4>Click on a character image to begin the game and increase your score. If you click on the same one more
+                    that once, game over!
+                  </h4>
                   </div>
                 </div>
                 <div className="row">

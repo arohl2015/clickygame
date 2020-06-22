@@ -1,20 +1,23 @@
 .navbar {
     background-size: cover;
-    background-color: grey;
+    background-color: #D2691E;
 }
 
 .text-center {
   margin-left: 30%;
   color: white;
+  font-family: 'Balsamiq Sans', cursive;
 }
 
   .nav {
-    height: 27px;
-    margin-left: 5px;
-    margin-right: 5px;
-    font-size: 25px;
+    height: 25px;
+    margin-left: 4px;
+    margin-right: 4px;
+    font-size: 22px;
     font-weight: bolder;
     color: white;
+    font-family: 'Balsamiq Sans', cursive;
+    display: flex;
   }
 
   .text-center {

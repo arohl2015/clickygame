@@ -2,9 +2,13 @@
     text-align: center;
   }
 
-  h3 {
+  h4 {
       text-align: center;
       margin-top: 2%;
+      font-family: 'Balsamiq Sans', cursive;
+      color: #B22222;
+      font-weight: bolder;
+
   }
 
   .container-fluid {
