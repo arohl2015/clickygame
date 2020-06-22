@@ -4,11 +4,10 @@ This weeks assignment was to create a memory game with React. It required me to 
 ## Getting Started: 
 To begin the game, a user must click on an image of a character from the show 30 Rock. Once a character is clicked, the remaining images are shuffled. A user score is incremented by 1 for every different character clicked, but resets to zero if the same one is clicked twice. Once the game resets and the user starts playing again, it will keep track of their highest score.
 
+You can access the game via this link: [ClickyGame](https://arohl2015.github.io/clickygame/)
+
 ## App Example:
-​
-<a href="https://arohl2015.github.io/clickygame/" target="_blank">
-   <img src="C:\Users\fairy\Desktop\Rohl-portfolio\clickygame\clickygame\public\images\game.PNG">
-</a>
+​​![Clicky](clickygame/public/images/game.PNG)
 
 ## Technologies Used:
 -   React
