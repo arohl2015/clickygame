@@ -7,7 +7,7 @@ To begin the game, a user must click on an image of a character from the show 30
 ## App Example:
 ​
 <a href="https://arohl2015.github.io/clickygame/" target="_blank">
-   <img src="">
+   <img src="C:\Users\fairy\Desktop\Rohl-portfolio\clickygame\clickygame\public\images\game.PNG">
 </a>
 
 ## Technologies Used:
@@ -18,7 +18,7 @@ To begin the game, a user must click on an image of a character from the show 30
 -   GitHub
 
 ## Future Enhancements:
-
+In the future, I'd like to update my React code by creating a separate Game component folder/files to import into the App.js to clean up the code.
 
 ## Connect with Me & View my Work:
 - <a href="https://arohl2015.github.io/Updated-Portfolio/" target="_blank"> Portfolio </a>
