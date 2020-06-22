@@ -1,19 +1,19 @@
 .picture-img {
     height: 250px;
     width: 250px;
-    padding: 3px;
-    border: 5px solid blue;
+    padding: 1px;
+    border: 3px solid grey;
     background-size: cover;
     position: relative;
   }
   
   Image {
-    height: 200px;
-    width: 200px;
+    height: 225px;
+    width: 225px;
   }
   
   .pictureImg {
-    height: 200px;
-    width: 200px;
+    height: 240px;
+    width: 240px;
     margin: 2px 2px 2px 2px;
   }

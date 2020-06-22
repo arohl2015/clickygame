@@ -2,6 +2,11 @@
     text-align: center;
   }
 
-  h2 {
+  h3 {
       text-align: center;
+      margin-top: 2%;
+  }
+
+  .container-fluid {
+      background-image: url("https://lelandswallpaper.com/wp-content/uploads/2018/06/2773-795103-brewster-wallcovering-advantage-neutral-black-white-aston-city-wallpaper-silver.jpg");
   }

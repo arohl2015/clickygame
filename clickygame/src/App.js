@@ -67,11 +67,11 @@ class App extends Component {
             <div className="container-fluid">
               <div className="row">
                 <div className="col-md-12">
-                  <h2>If you click on a 30 Rock Character more than once...game over!</h2>
+                  <h3>If you click on a character more than once-game over!</h3>
                   </div>
                 </div>
                 <div className="row">
-                <div className="col-md-10">
+                <div className="col-md-11">
                   <Wrapper>
                     {shuffledCharacter.map(characters => (
                       <GameCard
@@ -84,7 +84,7 @@ class App extends Component {
                     ))}
                   </Wrapper>
                 </div>
-                <div className="col-md-2"></div>
+                <div className="col-md-1"></div>
               </div>
             </div>
           </div>

@@ -7,7 +7,7 @@ const Navbar = props => {
       <a className="navbar-brand" href="/">
       </a>
       <div className="text-center">
-        <h1>Click a character to begin</h1>
+        <h1>Click Any Character to Begin</h1>
       </div>
       <div className="nav navbar-nav ml-auto">
         <p className="currentScore">Score: {props.currentScore}</p>
